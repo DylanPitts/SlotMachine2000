@@ -1,0 +1,39 @@
+Welcome to Slot Machine 2000
+---------------------------------------------
+The Rules are as fallowed:
+
+Two Triangles - gives 25% of your bet back.
+Two Targets - gives 50% of your bet back.
+Two Crosses - gives 150% of your bet back.
+
+Three Triangles - gives 200% of your bet back.
+Three Targets - gives 300% of your bet back.
+Three Crosses - gives 400% of your bet back.
+
+You have to bet before making a spin.
+
+If you do not have the money to make a spin,
+the button will be disabled until 
+you have enough again.
+
+If your money falls to a point you cant make
+a bet or your earnings fall below zero the 
+game will reset.
+-----------------------------------------------
+Navigation: 
+
+File or alt + F brings up the file menu.
+
+Save or alt + S brings up a dialog box asking, 
+your for a filename to save to.
+
+Load or alot + L brings up a dialog box asking, 
+for a filename to load.
+
+Reset or alt + R resets your game.
+
+Exit or alt + X quits the program.
+
+About or alt + A brings up the about menu.
+
+Rules or alt + R opens this txt document.
